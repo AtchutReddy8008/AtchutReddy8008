@@ -1,4 +1,4 @@
-👋 Hi, I’m @AtchutReddy
+👋 Hi, I’m @AtchutReddy  
 👀 I’m interested in Full Stack Development, Machine Learning, and AI/ML Model Deployment.  
 🌱 I’m currently learning advanced deep learning techniques and CI/CD integration for scalable applications.  
 💞️ I’m looking to collaborate on ML projects, innovative web applications, and open-source contributions related to AI.  
